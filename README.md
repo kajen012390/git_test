@@ -1,0 +1,1 @@
+This Kaneshia's first git project
